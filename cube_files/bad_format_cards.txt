@@ -1,0 +1,358 @@
+"Check for Traps
+ Adventures in the Forgotten Realms - Magic"
+"Blaze
+ Portal Second Age - Magic"
+"Mana Geode
+ Jumpstart - Magic"
+"Lone Rider
+ Eldritch Moon - Magic"
+"Bastion of Remembrance
+ Ikoria: Lair of Behemoths - Magic"
+"Mentor of the Meek
+ Double Masters 2022 - Magic"
+"Experimental Synthesizer
+ Kamigawa: Neon Dynasty - Magic"
+"Annoyed Altisaur
+ Double Masters 2022 - Magic"
+"Honden of Life's Web
+ Champions of Kamigawa - Magic"
+"Delver of Secrets
+ Innistrad - Magic"
+"Talisman of Unity
+ Mirrodin - Magic"
+"Tend the Pests
+ Strixhaven: School of Mages - Magic"
+"Treasure Hunt
+ Mystery Booster Cards - Magic"
+"Marauding Blight-Priest
+ Zendikar Rising - Magic"
+"Expressive Iteration
+ Strixhaven: School of Mages - Magic"
+"Usher of the Fallen
+ Kaldheim - Magic"
+"Juvenile Mist Dragon
+ Commander Legends: Battle for Baldur's Gate - Magic"
+"Inventor's Apprentice
+ Kaladesh - Magic"
+"Syr Carah, the Bold
+ Throne of Eldraine - Magic"
+"Dreadhound
+ Innistrad: Midnight Hunt - Magic"
+"Mark of Mutiny
+ Magic 2013 (M13) - Magic"
+"Call of the Death-Dweller
+ Ikoria: Lair of Behemoths - Magic"
+"You're Confronted by Robbers
+ Commander Legends: Battle for Baldur's Gate - Magic"
+"Young Blue Dragon
+ Commander Legends: Battle for Baldur's Gate - Magic"
+"You Look Upon the Tarrasque
+ Commander Legends: Battle for Baldur's Gate - Magic"
+"Winter Eladrin
+ Commander Legends: Battle for Baldur's Gate - Magic"
+"Weaponize the Monsters
+ Ikoria: Lair of Behemoths - Magic"
+"Warbriar Blessing
+ Theros Beyond Death - Magic"
+"Unlucky Witness
+ Streets of New Capenna - Magic"
+"Thirst for Discovery
+ Innistrad: Crimson Vow - Magic"
+"Swell of Courage
+ Morningtide - Magic"
+"Strength of Arms
+ Shadows over Innistrad - Magic"
+"Sphinx of the Guildpact
+ Ravnica Allegiance - Magic"
+"Soul Sear
+ Core Set 2021 - Magic"
+"Sapphire Dragon
+ Commander Legends: Battle for Baldur's Gate - Magic"
+"Reyav, Master Smith
+ Commander Legends - Magic"
+"Reckless Barbarian
+ Commander Legends: Battle for Baldur's Gate - Magic"
+"Patch Up
+ Streets of New Capenna - Magic"
+"Nefarious Imp
+ Commander Legends: Battle for Baldur's Gate - Magic"
+"Moonsnare Specialist
+ Kamigawa: Neon Dynasty - Magic"
+"Raffine's Informant
+ Streets of New Capenna - Magic"
+"Pilfering Hawk
+ Kaldheim - Magic"
+"Patron of the Arts
+ Commander Legends: Battle for Baldur's Gate - Magic"
+"Mirrorshell Crab
+ Kamigawa: Neon Dynasty - Magic"
+"Ovalchase Dragster
+ Kaladesh - Magic"
+"Memory Leak
+ Ikoria: Lair of Behemoths - Magic"
+"Feywild Caretaker
+ Commander Legends: Battle for Baldur's Gate - Magic"
+"Mad Ratter
+ Throne of Eldraine - Magic"
+"Kardur's Vicious Return
+ Kaldheim - Magic"
+"Inspired Tinkering
+ Commander Legends: Battle for Baldur's Gate - Magic"
+"Gut, True Soul Zealot
+ Commander Legends: Battle for Baldur's Gate - Magic"
+"Guildsworn Prowler
+ Commander Legends: Battle for Baldur's Gate - Magic"
+"Graveblade Marauder
+ Double Masters 2022 - Magic"
+"Goldhound
+ Streets of New Capenna - Magic"
+"Gelatinous Genesis
+ Double Masters - Magic"
+"Graceful Restoration
+ Modern Horizons 2 - Magic"
+"Dire Mimic
+ Commander Legends: Battle for Baldur's Gate - Magic"
+"Dark-Dweller Oracle
+ Double Masters 2022 - Magic"
+"Cliffhaven Kitesail
+ Zendikar Rising - Magic"
+"Bronze Walrus
+ Commander Legends: Battle for Baldur's Gate - Magic"
+"Breakthrough
+ Double Masters 2022 - Magic"
+"Bonecaller Cleric
+ Commander Legends: Battle for Baldur's Gate - Magic"
+"Bloodchief's Thirst
+ Zendikar Rising - Magic"
+"Blessed Hippogriff
+ Commander Legends: Battle for Baldur's Gate - Magic"
+"Binding the Old Gods
+ Kaldheim - Magic"
+"Beloved Beggar
+ Innistrad: Midnight Hunt - Magic"
+"Go Blank
+ Strixhaven: School of Mages - Magic"
+"Cranial Plating
+ Modern Masters 2015 - Magic"
+"Snakeskin Veil
+ Strixhaven: Mystical Archives - Magic"
+"Hyena Umbra
+ Ultimate Masters - Magic"
+"Sarulf's Packmate
+ Kaldheim - Magic"
+"Hound Tamer
+ Innistrad: Midnight Hunt - Magic"
+"Svella, Ice Shaper
+ Kaldheim - Magic"
+"Kardur, Doomscourge
+ Kaldheim - Magic"
+"Grimdancer
+ Ikoria: Lair of Behemoths - Magic"
+"Rip Apart
+ Strixhaven: School of Mages - Magic"
+"Knight of Meadowgrain
+ Lorwyn - Magic"
+"Soul Snuffers
+ Eventide - Magic"
+"Maraleaf Pixie
+ Throne of Eldraine - Magic"
+"Sanctum of Fruitful Harvest
+ Core Set 2021 - Magic"
+"Conclave Mentor
+ Double Masters 2022 - Magic"
+"Blood Fountain
+ Innistrad: Crimson Vow - Magic"
+"Obsessive Stitcher
+ The List - Magic"
+"Rescuer Chwinga
+ Commander Legends: Battle for Baldur's Gate - Magic"
+"Githzerai Monk
+ Commander Legends: Battle for Baldur's Gate - Magic"
+"Deathbonnet Sprout
+ Innistrad: Midnight Hunt - Magic"
+"Gilanra, Caller of Wirewood
+ Commander Legends - Magic"
+"Breathless Knight
+ Modern Horizons 2 - Magic"
+"Firewing Phoenix
+ Ultimate Masters - Magic"
+"Jewel Thief
+ Streets of New Capenna - Magic"
+"Go-Shintai of Hidden Cruelty
+ Kamigawa: Neon Dynasty - Magic"
+"Waker of Waves
+ Core Set 2021 - Magic"
+"Seasoned Hallowblade
+ Core Set 2021 - Magic"
+"Experimental Overload
+ Core Set 2021 - Magic"
+"Alharu, Solemn Ritualist
+ Commander Legends - Magic"
+"Merchant of the Vale
+ Throne of Eldraine - Magic"
+"Power Word Kill
+ Adventures in the Forgotten Realms - Magic"
+"Rite of Oblivion
+ Innistrad: Midnight Hunt - Magic"
+"Dire Fleet Warmonger
+ Core Set 2021 - Magic"
+"Rabbit Battery
+ Kamigawa: Neon Dynasty - Magic"
+"Rebuff the Wicked
+ Time Spiral: Remastered - Magic"
+"Koll, the Forgemaster
+ Kaldheim - Magic"
+"Shepherd of the Flock
+ Throne of Eldraine - Magic"
+"Faerie Guidemother
+ Throne of Eldraine - Magic"
+"Heartless Act
+ Ikoria: Lair of Behemoths - Magic"
+"Shipwreck Dowser
+ Core Set 2021 - Magic"
+"Snake Umbra
+ Ultimate Masters - Magic"
+"Inspiring Overseer
+ Streets of New Capenna - Magic"
+"Festering Mummy
+ Amonkhet - Magic"
+"Belle of the Brawl
+ Throne of Eldraine - Magic"
+"Arms of Hadar
+ Commander Legends: Battle for Baldur's Gate - Magic"
+"Ill-Gotten Inheritance
+ Ravnica Allegiance - Magic"
+"Magmaw
+ Ultimate Masters - Magic"
+"Bolt Bend
+ War of the Spark - Magic"
+"Bookwurm
+ Strixhaven: School of Mages - Magic"
+"Village Rites
+ Kaldheim - Magic"
+"Unbounded Potential
+ Modern Horizons 2 - Magic"
+"Blood Researcher
+ Strixhaven: School of Mages - Magic"
+"Goldvein Pick
+ Kaldheim - Magic"
+"Honor Troll
+ Strixhaven: School of Mages - Magic"
+"Faerie Vandal
+ Throne of Eldraine - Magic"
+"Mortality Spear
+ Strixhaven: School of Mages - Magic"
+"Behold the Multiverse
+ Kaldheim - Magic"
+"Battlefield Raptor
+ Kaldheim - Magic"
+"Fire Prophecy
+ Ikoria: Lair of Behemoths - Magic"
+"Volley Veteran
+ Core Set 2019 - Magic"
+"Mahadi, Emporium Master
+ Commander Legends: Battle for Baldur's Gate - Magic"
+"Tainted Indulgence
+ Streets of New Capenna - Magic"
+"Elephant Guide
+ Conspiracy - Magic"
+"Rite of the Raging Storm
+ Commander: Streets of New Capenna - Magic"
+"Magic Missile
+ Adventures in the Forgotten Realms - Magic"
+"Strangle
+ Streets of New Capenna - Magic"
+"Reckless Impulse
+ Innistrad: Crimson Vow - Magic"
+"Irenicus's Vile Duplication
+ Commander Legends: Battle for Baldur's Gate - Magic"
+"Ingenious Smith
+ Adventures in the Forgotten Realms - Magic"
+"Amethyst Dragon
+ Commander Legends: Battle for Baldur's Gate - Magic"
+"Sanctum of Stone Fangs
+ Core Set 2021 - Magic"
+"Bone Shards
+ Modern Horizons 2 - Magic"
+"Foundation Breaker
+ Modern Horizons 2 - Magic"
+"Spikefield Hazard
+ Zendikar Rising - Magic"
+"Careless Celebrant
+ Theros Beyond Death - Magic"
+"Feed the Swarm
+ Zendikar Rising - Magic"
+"Beckoning Will-o'-Wisp
+ Commander Legends: Battle for Baldur's Gate - Magic"
+"Ornithopter of Paradise
+ Modern Horizons 2 - Magic"
+"Conclave Mentor
+ Double Masters 2022 - Magic"
+"Thopter Squadron
+ Exodus - Magic"
+"Talisman of Impulse
+ Mirrodin - Magic"
+"Talisman of Progress
+ Mirrodin - Magic"
+"Relic of Progenitus
+ Modern Masters - Magic"
+"Big Score
+ Streets of New Capenna - Magic"
+"Basalt Monolith
+ Revised Edition - Magic"
+"Essence Warden
+ Duel Decks: Ajani vs. Nicol Bolas - Magic"
+"Mental Misstep
+ New Phyrexia - Magic"
+"Bala Ged Recovery
+ Zendikar Rising - Magic"
+"Whispersilk Cloak
+ Darksteel - Magic"
+"Talisman of Indulgence
+ Mirrodin - Magic"
+"Honden of Cleansing Fire
+ Champions of Kamigawa - Magic"
+"Propaganda
+ Commander 2020 - Magic"
+"Three Visits
+ Commander Legends - Magic"
+"Thran Dynamo
+ Commander 2019 - Magic"
+"Talisman of Dominance
+ Commander: Innistrad: Midnight Hunt - Magic"
+"Reanimate
+ Jumpstart - Magic"
+"Pyrohemia
+ Commander Anthology - Magic"
+"Portable Hole
+ Adventures in the Forgotten Realms - Magic"
+"Play with Fire
+ Innistrad: Double Feature - Magic"
+"Ominous Seas
+ Ikoria: Lair of Behemoths - Magic"
+"Necromancy
+ Visions - Magic"
+"Metallic Mimic
+ Aether Revolt - Magic"
+"Malakir Rebirth
+ Zendikar Rising - Magic"
+"Imperial Recruiter
+ Modern Horizons 2 - Magic"
+"Haunted Ridge
+ Innistrad: Double Feature - Magic"
+"Dread Fugue
+ Innistrad: Double Feature - Magic"
+"Destiny Spinner
+ Theros Beyond Death - Magic"
+"Infernal Grasp
+ Innistrad: Midnight Hunt - Magic"
+"Dance of the Dead
+ Ice Age - Magic"
+"Deadly Dispute
+ Adventures in the Forgotten Realms - Magic"
+"Lightning Greaves
+ Commander 2019 - Magic"
+"Buried Alive
+ Ultimate Masters - Magic"
+"Blasting Station
+ Fifth Dawn - Magic"

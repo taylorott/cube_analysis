@@ -1,0 +1,182 @@
+Hallowed Fountain
+Irrigated Farmland
+Temple of Enlightenment
+Fetid Pools
+Temple of Deceit
+Watery Grave
+Blackcleave Cliffs
+Blood Crypt
+Sulfurous Springs
+Rootbound Crag
+Sheltered Thicket
+Stomping Ground
+Horizon Canopy
+Scattered Groves
+Temple of Plenty
+Godless Shrine
+Isolated Chapel
+Silent Clearing
+Fiery Islet
+Prismari Campus
+Steam Vents
+Golgari Rot Farm
+Nurturing Peatland
+Overgrown Tomb
+Inspiring Vantage
+Sacred Foundry
+Sunbaked Canyon
+Breeding Pool
+Quandrix Campus
+Simic Growth Chamber
+Ash Barrens
+City of Brass
+Cryptic Spires
+Fabled Passage
+Forsaken Crossroads
+Mana Confluence
+Mishra's Factory
+Prismatic Vista
+Adarkar Wastes
+Azorius Chancery
+Glacial Fortress
+Hallowed Fountain
+Dimir Aqueduct
+Drowned Catacomb
+Underground River
+Watery Grave
+Blood Crypt
+Dragonskull Summit
+Rakdos Carnarium
+Sulfurous Springs
+Gruul Turf
+Karplusan Forest
+Rootbound Crag
+Stomping Ground
+Brushland
+Selesnya Sanctuary
+Sunpetal Grove
+Temple Garden
+Caves of Koilos
+Godless Shrine
+Isolated Chapel
+Orzhov Basilica
+Izzet Boilerworks
+Shivan Reef
+Steam Vents
+Sulfur Falls
+Golgari Rot Farm
+Llanowar Wastes
+Overgrown Tomb
+Woodland Cemetery
+Battlefield Forge
+Boros Garrison
+Clifftop Retreat
+Sacred Foundry
+Breeding Pool
+Hinterland Harbor
+Simic Growth Chamber
+Yavimaya Coast
+Seaside Citadel
+Arcane Sanctum
+Crumbling Necropolis
+Nomad Outpost
+Frontier Bivouac
+Mystic Monastery
+Opulent Palace
+City of Brass
+Evolving Wilds
+Fabled Passage
+Mana Confluence
+Mishra's Factory
+Prismatic Vista
+Radiant Fountain
+Terramorphic Expanse
+Azorius Chancery
+Gates of Istfell
+Glacial Floodplain
+Hallowed Fountain
+Temple of Enlightenment
+Dimir Aqueduct
+Ice Tunnel
+Port of Karfell
+Temple of Deceit
+Watery Grave
+Blood Crypt
+Immersturm Skullcairn
+Rakdos Carnarium
+Sulfurous Mire
+Temple of Malice
+Gnottvold Slumbermound
+Gruul Turf
+Highland Forest
+Stomping Ground
+Temple of Abandon
+Arctic Treeline
+Bretagard Stronghold
+Selesnya Sanctuary
+Temple Garden
+Temple of Plenty
+Godless Shrine
+Great Hall of Starnheim
+Orzhov Basilica
+Snowfield Sinkhole
+Temple of Silence
+Izzet Boilerworks
+Steam Vents
+Surtland Frostpyre
+Temple of Epiphany
+Volatile Fjord
+Golgari Rot Farm
+Overgrown Tomb
+Skemfar Elderhall
+Temple of Malady
+Woodland Chasm
+Alpine Meadow
+Axgard Armory
+Boros Garrison
+Sacred Foundry
+Temple of Triumph
+Breeding Pool
+Littjara Mirrorlake
+Rimewood Falls
+Simic Growth Chamber
+Temple of Mystery
+Seaside Citadel
+Arcane Sanctum
+Crumbling Necropolis
+Savage Lands
+Jungle Shrine
+Nomad Outpost
+Frontier Bivouac
+Sandsteppe Citadel
+Mystic Monastery
+Opulent Palace
+Ash Barrens
+Evolving Wilds
+Field of Ruin
+Myriad Landscape
+Terramorphic Expanse
+Alora, Rogue Companion
+Ambergris, Citadel Agent
+Davriel's Withering
+Dragonfly Pilot
+Faceless Agent
+Jaheira, Harper Emissary
+Kindred Denial
+Menagerie Curator
+Mephit's Enthusiasm
+Minthara of the Absolute
+Nightclub Bouncer
+Painful Bond
+Patriar's Humiliation
+Rasaad, Monk of Selûne
+Reckless Ringleader
+Seek New Knowledge
+Settle the Wilds
+Shattering Finale
+Skyline Savior
+Skyshroud Ambush
+Static Discharge
+Tenacious Pup
+Undersimplify
+Viconia, Nightsinger's Disciple
